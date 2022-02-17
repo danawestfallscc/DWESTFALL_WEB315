@@ -15624,6 +15624,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\danaw\\OneDrive - St. Clair College\\DWESTFALL_WEB315\\TheGreenRoom\\Pages\\Flowers\\Create.cshtml",
+      "TargetPath": "Pages\\Flowers\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\danaw\\OneDrive - St. Clair College\\DWESTFALL_WEB315\\TheGreenRoom\\Pages\\Flowers\\Delete.cshtml",
+      "TargetPath": "Pages\\Flowers\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\danaw\\OneDrive - St. Clair College\\DWESTFALL_WEB315\\TheGreenRoom\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
@@ -15634,13 +15644,28 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\danaw\\OneDrive - St. Clair College\\DWESTFALL_WEB315\\TheGreenRoom\\Pages\\Flower.cshtml",
+      "TargetPath": "Pages\\Flower.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\danaw\\OneDrive - St. Clair College\\DWESTFALL_WEB315\\TheGreenRoom\\Pages\\Index.cshtml",
       "TargetPath": "Pages\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\danaw\\OneDrive - St. Clair College\\DWESTFALL_WEB315\\TheGreenRoom\\Pages\\Flowers\\Edit.cshtml",
+      "TargetPath": "Pages\\Flowers\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\danaw\\OneDrive - St. Clair College\\DWESTFALL_WEB315\\TheGreenRoom\\Pages\\Shared\\_Layout.cshtml",
       "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\danaw\\OneDrive - St. Clair College\\DWESTFALL_WEB315\\TheGreenRoom\\Pages\\Flowers\\Details.cshtml",
+      "TargetPath": "Pages\\Flowers\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15651,6 +15676,11 @@
     {
       "FilePath": "c:\\Users\\danaw\\OneDrive - St. Clair College\\DWESTFALL_WEB315\\TheGreenRoom\\Pages\\_ViewImports.cshtml",
       "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\danaw\\OneDrive - St. Clair College\\DWESTFALL_WEB315\\TheGreenRoom\\Pages\\Flowers\\Index.cshtml",
+      "TargetPath": "Pages\\Flowers\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],
